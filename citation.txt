@@ -1,17 +1,8 @@
-@inproceedings{Hsu_2024_CVPR,
+@inproceedings{REPO161,
     author = "Hsu, Chih-Chung and Lee, Chia-Ming and Chou, Yi-Shiuan",
     booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops",
     month = "June",
     pages = "6133-6142",
-    title = "DRCT: Saving Image Super-Resolution Away from Information Bottleneck",
-    year = "2024"
-}
-
-@misc{REPO161,
-    author = "Hsu, Chih-Chung and Lee, Chia-Ming and Chou, Yi-Shiuan",
-    archiveprefix = "arXiv",
-    eprint = "2404.00722",
-    primaryclass = "cs.CV",
-    title = "{DRCT: Saving Image Super-resolution away from Information Bottleneck}",
+    title = "{DRCT: Saving Image Super-Resolution Away from Information Bottleneck}",
     year = "2024"
 }
